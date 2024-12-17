@@ -1,0 +1,3 @@
+variable "alias" {}
+
+variable "domain" {}
