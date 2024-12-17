@@ -1,5 +1,5 @@
 store "varset" "test_org_mgmt" {
-  id = "test-org-mgmt"
+  id = "varset-232kdo7KYQEXuMCq"
   category = "env"
 }
 
@@ -15,7 +15,7 @@ deployment "test_org_mgmt" {
 }
 
 store "varset" "test_org_child" {
-  id = "test-org-child"
+  id = "varset-Y6428hoSQ6QDGbJr"
   category = "env"
 }
 
