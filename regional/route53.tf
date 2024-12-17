@@ -3,5 +3,6 @@ resource "aws_route53_record" "this" {
 
   name    = var.region
   type    = "TXT"
+  ttl     = 900
   records = ["region=${var.region}"]
 }
